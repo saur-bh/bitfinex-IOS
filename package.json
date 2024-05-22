@@ -1,7 +1,7 @@
 {
-  "name": "bitfinex-IOS-Automation",
+  "name": "gini-ios-android-chalange",
   "version": "1.0.0",
-  "description": "IOS automation for mobile app",
+  "description": "IOS and Android automation for mobile app",
   "main": "index.js",
   "scripts": {
     "test": "wdio wdio.conf.js"

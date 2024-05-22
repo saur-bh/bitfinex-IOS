@@ -59,7 +59,7 @@ exports.config = {
         "appium:platformVersion":configData.platformVersion,
         "appium:deviceName": configData.deviceName,
         "appium:automationName": configData.automationName,
-        "appium:app": configData.app,
+        "appium:bundleId": configData.app,
         
     }],
     //

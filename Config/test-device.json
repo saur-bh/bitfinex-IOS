@@ -1,8 +1,22 @@
 {
+    "ios":{
    
     "platformName" : "iOS",
     "platformVersion":"17.2",
     "deviceName":  "iPhone 15",
     "automationName": "XCUITest",
-    "app": "app/Bitfinex.app"
+    "app": "Putra-Pebriano-Nurba.ToDoList"
+        },
+        "android":{
+
+               
+    "platformName" : "iOS",
+    "platformVersion":"17.2",
+    "deviceName":  "iPhone 15",
+    "automationName": "XCUITest",
+    "app": "Putra-Pebriano-Nurba.ToDoList"
+ }
+
+
+
 }
